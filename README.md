@@ -1,15 +1,15 @@
 # Marie Leth Hansen - speciale
 ## Introduktion
-Dette repository indeholder do-fil og dataanalyser til mit speciale fra 2023 på Institut for Statskundskab ved Aarhus Universitet. I specialet afdækkes vælgernes kompetencevurdering af mandlige og kvindelige politikere. Det vil derudover undersøges hvorvidt forskelle i vælgernes "Personal Need for Structure" påvirker sammenhængen mellem en politikers køn og sandsynligheden for at stemme på politikeren, samt hvorvidt politikerens ideologiske blok påvirker denne sammenhæng. Do-filen er struktureret ud fra nedenstående beskrivelse.
+Dette repository indeholder do-fil og dataanalyser til mit speciale fra 2023 på Institut for Statskundskab ved Aarhus Universitet. I specialet afdækkes vælgernes kompetencevurdering af politikere på forskellige politikområder. Det vil derudover undersøges hvorvidt forskelle i vælgernes "Personal Need for Structure" påvirker sammenhængen, samt hvorvidt politikerens ideologiske blok påvirker denne sammenhæng. Do-filen er struktureret ud fra nedenstående beskrivelse.
 
 Forskningsdesign og undersøgelse af specialets 4 hypoteser: I projektet benyttes et eksperimentelt undersøgelsesdesign, udformet som et survey-eksperiment med vignetter. Indledningsvist er de primære variable kodet og de eksperimentelle grupper dannet. 
-For at teste specialets hypotese 1 og 2 afdækkes den kausale effekt af at læse beskrivelsen af en mandlig eller kvindelig politiker på deres kompetence til at varetage traditionelt maskuline og feminine ansvarsområder. Analysen er udført ved brug af OLS-regression. 
+For at teste specialets hypotese 1 og 2 afdækkes den kausale effekt af at læse beskrivelsen af en mandlig eller kvindelig politiker på deres kompetence til at varetage forsekllige ansvarsområder. Analysen er udført ved brug af OLS-regression. 
 For at teste hypotese 3 er der foretaget en OLS-regression med robuste standardfejl af effekten af politikerens køn på sandsynligheden for at stemme på politikeren i en situation med øget dansk sikkerhedstrussel og med graden af ”Personal Need for Structure” som interaktionsled. 
 På baggrund af hypotese 4 forventes det, at effekten af "Personal Need for Structure" på sammenhængen mellem kandidatens køn og stemmeadfærd vil være mindre, når vælgerne præsenteres for en kandidat fra blå blok. For at teste hypotese 4 er der udført en trevejsinteraktion, hvor den fiktive politikers blok indgår som interaktionled på sammenhængen mellem politikerens køn og graden af "Personal Need for Structure" på sandsynlighed for at stemme på politikeren.
 
 Forudsætningstest: Der er foretaget relevante forudsætningstest; herunder undersøgelse af indflydelsesrige observationer via Cooks D, test for normalfordelte fejlled, White’s test for homoskedasticitet samt undersøgelse af multikollinearitet. 
 
-Manipulationstjek:  Som en del af projektet er det blevet undersøgt om manipulation af den uafhængige variabel (den fiktive politikers køn) samt den danske sikkerhedssituation har virket efter hensigten. Dette testes konkret igennem en chi-i-anden test.
+Manipulationstjek:  Som en del af projektet er det blevet undersøgt om manipulation af den uafhængige variabel samt den danske sikkerhedssituation har virket efter hensigten. Dette testes konkret igennem en chi-i-anden test.
 
 Randomisering og balancetest:  Idet automatisk randomisering i SurveyXact ikke var muligt, er der også opstillet en række balancetabeller for at teste om randomisering ud fra fødselsdag var succesfuld. Konkret er dette gjort ved udregning af gennemsnit for baggrundsvariablene: køn, uddannelsesniveau, ideologi, geograf, alder og chi-i-anden-test foretages.
 
