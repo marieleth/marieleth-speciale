@@ -1,4 +1,4 @@
-# Marie Leth Hansen - speciale
+# Marie Leth - speciale
 ## Introduktion
 Dette repository indeholder do-fil og dataanalyser til mit speciale fra 2023 på Institut for Statskundskab ved Aarhus Universitet. I specialet afdækkes vælgernes kompetencevurdering af politikere på forskellige politikområder. Det vil derudover undersøges hvorvidt forskelle i vælgernes "Personal Need for Structure" påvirker sammenhængen, samt hvorvidt politikerens ideologiske blok påvirker denne sammenhæng. Do-filen er struktureret ud fra nedenstående beskrivelse.
 
