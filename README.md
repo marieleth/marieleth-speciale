@@ -23,5 +23,5 @@ Poweranalyse: Der er som en del af analysen foretaget en power-calculation på b
 Analysen beror på data som er indsamlet fra den 29. november til d. 18. december 2022 igennem et onlinespørgeskema, og analysens sample kan betegnes som et convenience sample. I samlet indgår 672 respondenter. Selve datafilen er ikke inkluderet i dette repository. Data kan rekvireres efter forespørgsel.
 
 ## Kontakt
-Har du spørgsmål til projektet, er du velkommen til at skrive til mig på marielhansen94@gmail.com
+Har du spørgsmål til projektet, er du velkommen til at skrive til mig på marieleth.mail@gmail.com
 
